@@ -1,0 +1,436 @@
+/*=================================================================
+  @media screen 1440px
+==================================================================*/
+
+
+@media screen and (min-width: 1440px){
+  .__overlay {
+     min-height: 809px !important;
+  }
+}
+
+
+/*=================================================================
+  @media screen 1220px
+==================================================================*/
+
+
+@media screen and (min-width: 1220px){
+  .__overlay {
+     min-height: 687px ;
+  }
+
+  .__navt {
+    margin-left: 35px;
+  }
+
+  .__footbg {
+    padding: 47px;
+  }
+
+
+
+
+}
+
+
+
+/*=================================================================
+  @media screen 1199px
+==================================================================*/
+
+
+@media screen and (max-width: 1199px){
+  .__overlay {
+    min-height: 676px !important;
+  }
+
+  .__navfn {
+    font-size: 64px;
+  }
+
+  .__mt {
+    margin-top: 10%;
+  }
+
+  .__conbtn {
+    left: 268px;
+  }
+
+  .__fot {
+    font-size: 14px;
+  }
+    
+}
+
+
+
+/*=================================================================
+  @media screen 1024px
+==================================================================*/
+
+
+@media screen and (max-width: 1024px){
+
+  .__navbg1 {
+    padding: 15px 8px;
+    }
+
+    #myVideo {
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .__overlay {
+    min-height: 576px !important;
+  }
+
+  .__navt {
+    margin-left: 2px;
+  }
+
+  .__navfn {
+    font-size: 61px;
+  }
+
+  .__thumb .__img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .__mt {
+    margin-top: 0%;
+  }
+
+  .__fot {
+    font-size: 14px;
+  }
+
+  .__conbtn {
+    left: 268px;
+  }
+
+  .__footbg {
+    height: 100%;
+    background-color: #20273e;
+    padding: 15px;
+  }
+
+}
+
+
+/*=================================================================
+  @media screen 992px
+==================================================================*/
+
+
+@media screen and (max-width: 992px){
+  .__overlay {
+    min-height: 558px !important;
+  }
+}
+
+
+/*=================================================================
+  @media screen 800px
+==================================================================*/
+
+@media screen and (max-width: 800px){
+
+	
+.__slidp {
+    width: 587px;
+    }
+
+    #myVideo {
+    min-height: 100%;
+  }
+
+  .__mt {
+    margin-top: 0%;
+  }
+
+  .__navt {
+    position: absolute;
+    top: 10px;
+    margin-left: 0px;
+  }
+
+  .__navfn {
+    font-size: 57px;
+  }
+
+  .__overlay {
+    min-height: 434px !important;
+  }
+
+  .__movt {
+    position: unset; 
+    margin-top: -183px;
+  }
+
+
+  .__play {
+    padding-left: 26px;
+  }
+
+  .__thumb .__img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .__blubg {
+    height: 100%;
+    background-color: #20273e;
+    padding-top: 4.5%;
+    padding-bottom: 4.5%;
+  }
+
+  .__fro {
+    width: 100%;
+  }
+
+  .__bgd {
+    height: 100%;
+  }
+
+  .__bgd1 {
+    height: 100%;
+  }
+
+  .__bgd2 {
+    height: 100%;
+  }
+
+  .__bgd3 {
+    height: 100%;
+  }
+
+  .__ehealth {
+    font-size: 25px;
+    padding: 53px 21px;
+  }
+
+  .__eedu {
+    padding: 39px 19px;
+  }
+
+  .__efin {
+    padding: 22px 18px; 
+  }
+
+  .__eagr {
+    font-size: 24px;
+    padding: 59px 17px;
+  }
+
+  .__footbg {
+    height: 100%;
+    padding: 15px;
+  }
+
+  .__conbtn {
+    left: 195px;
+  }
+
+  .__redov {
+    padding: 40px;
+  }
+
+  .__donfbtn {
+    width: 100%;
+  }
+	
+
+}
+
+
+/*=================================================================
+  @media screen 560px
+==================================================================*/
+
+
+  @media screen and (max-width: 560px){
+
+  	.__logo {
+    height: 52px;
+    }
+
+    .__slidp h1 {
+    font-size: 20px;
+    }
+
+    .__slidp h3 {
+    font-size: 13px;
+    }
+
+    .__slidp {
+    width: 310px;
+    }
+
+    .fade-carousel .slides .slide-1, 
+    .fade-carousel .slides .slide-2,
+    .fade-carousel .slides .slide-3,
+    .carousel-inner {
+    height: 297px;
+    }
+
+   .carousel-indicators {
+    bottom: 196px;
+    }
+
+
+    .__carodimg {
+    height: 40px;
+    }
+    
+    .__donfb {
+    width: 100%;
+  }
+
+    #myVideo {
+    width: 100%;
+    min-height: 249px;
+    }
+
+    .__movt {
+     position: unset; 
+    margin-top: 0px;
+    }
+
+    .__donfbtn {
+    width: 100%;
+    height: 47px;
+    }
+
+    .__navfn {
+    font-size: 24px;
+        margin-top: 5px;
+    margin-bottom: 5px;
+    }
+
+    .__navt {
+    top: 0px;
+    margin-left: 0px;
+  }
+
+  .__mt {
+    margin-top: 0%;
+  }
+
+  .__play {
+    position: absolute;
+    top: 61px;
+    /* background: rgba(0, 0, 0, 0.5); */
+    color: #f1f1f1;
+    /* width: 100%; */
+    padding-left: 0px;
+    z-index: 7;
+  }
+
+  .__sbtn {
+    padding-top: 8px;
+    width: 100%;
+    height: 100%;
+    }
+
+  .navbar {
+    min-height: 50px;
+    margin-bottom: 0px;
+    }
+  .__pow {
+    margin-bottom: 0px;
+  }
+
+  .__overlay {
+    min-height: 218px !important;
+  }
+
+  #myBtn {
+    width: 85px;
+  }
+
+  .__oure {
+    font-size: 27px;
+  }
+
+  .__thumb .__img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .__blubg {
+    height: 100%;
+    padding-top: 4.5%;
+    padding-bottom: 4.5%;
+  }
+
+  .__ouri {
+    font-size: 26px;
+  }
+
+  .__ouris {
+    font-size: 26px;
+    }
+
+    .__fro {
+    width: 100%;
+    }
+
+  .__bgd {
+    height: 100%;
+  }
+
+  .__bgd1 {
+    height: 100%;
+  }
+
+  .__bgd2 {
+    height: 100%;
+  }
+
+  .__bgd3 {
+    height: 100%;
+  }
+
+  .__redov {
+    padding: 12px;
+  }
+
+  .__footbg {
+    height: 100%;
+    padding: 0px;
+    text-align: center;
+  }
+
+  .__conbtn {
+    bottom: 0px;
+    left: 265px;
+  }
+
+  .__fot {
+    font-size: 14px;
+  }
+
+  .__ehealth {
+    font-size: 20px;
+    padding: 32px 17px;
+  }
+
+  .__eedu{
+    font-size: 20px;
+    padding: 32px 17px;
+  }
+
+  .__efin{
+   font-size: 20px;
+    padding: 32px 17px; 
+  }
+
+  .__eagr{
+    font-size: 20px;
+    padding: 32px 17px; 
+  }
+
+}
+
