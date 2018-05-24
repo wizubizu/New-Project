@@ -498,7 +498,7 @@ i#closebtn {
 .__navt{
   position: absolute;
     top: 10px;
-    margin-left: 83px; 
+    margin-left: 83px !important; 
 }
 
 .__navba{
@@ -532,7 +532,7 @@ i#closebtn {
 }
 
 .__mt{
-  margin-top: 11%;
+  margin-top: 4%;
 }
 
 .__last{
@@ -586,7 +586,7 @@ i#closebtn {
 
 .__movt{
   position: absolute;
-    bottom: -106px;
+    bottom: -55px;
     left: 130px;
     background: #ffffff;
     border-radius: 7px;
@@ -688,6 +688,10 @@ a.__thumb:hover{
 }
 
 .__joinbtn {
+  font-family: CircularStd-Medium;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0.7px;
     border-radius: 1.9px;
   background-color: #e14043;
     color: #ffffff;
@@ -700,7 +704,7 @@ a.__thumb:hover{
 }
 
 .__blubg{
-  height: 501px;
+  height: 600px;
   background-color: #20273e;
   padding-top: 4.5%;
 }
@@ -731,7 +735,7 @@ a.__thumb:hover{
 
 
 .__bgd{
-  background:linear-gradient(100deg, rgba(61, 126, 219, 0.5) 50%, rgba(61, 126, 219, 0.5) 50%), url(../img/Group9.png);
+  background:linear-gradient(100deg, rgba(61, 126, 219, 0.9) 50%, rgba(61, 126, 219, 0.9) 50%), url(../img/health.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -741,7 +745,7 @@ a.__thumb:hover{
 
 
 .__bgd1{
-  background:linear-gradient(100deg, rgba(104, 104, 239, 0.5) 50%, rgba(104, 104, 239, 0.5) 50%), url(../img/Group9.png);
+  background:linear-gradient(100deg, rgba(104, 104, 239, 0.7) 50%, rgba(104, 104, 239, 0.7) 50%), url(../img/Group9.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -750,7 +754,7 @@ a.__thumb:hover{
 }
 
 .__bgd2{
-  background:linear-gradient(100deg, rgba(234, 170, 51, 0.5) 50%, rgba(234, 170, 51, 0.5) 50%), url(../img/Group9.png);
+  background:linear-gradient(100deg, rgba(234, 170, 51, 0.8) 50%, rgba(234, 170, 51, 0.8) 50%), url(../img/naira.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -759,12 +763,21 @@ a.__thumb:hover{
 }
 
 .__bgd3{
-  background:linear-gradient(100deg, rgba(128, 154, 109, 0.5) 50%, rgba(128, 154, 109, 0.5) 50%), url(../img/Group9.png);
+  background:linear-gradient(100deg, rgba(128, 154, 109, 0.7) 50%, rgba(128, 154, 109, 0.7) 50%), url(../img/agric.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 4px;
     height: 206px;
+}
+
+.__bgd4{
+  background:linear-gradient(100deg, rgba(0, 150, 136, 0.7) 50%, rgba(0, 150, 136, 0.7) 50%), url(../img/pvc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+    height: 118px;
 }
 
 .__ehealth{
@@ -773,6 +786,7 @@ a.__thumb:hover{
     line-height: 1.08;
     color: #ffffff;
     padding: 90px 43px;
+    font-weight: 900;
   }
 
 .__eedu{
@@ -782,6 +796,7 @@ a.__thumb:hover{
     line-height: 1.08;
     color: #ffffff;
     padding: 44px 60px;
+    font-weight: 900;
   }
 
   .__efin{
@@ -791,6 +806,7 @@ a.__thumb:hover{
     line-height: 1.08;
     color: #ffffff;
     padding: 56px 30px;
+    font-weight: 900;
   }
 
   .__eagr{
@@ -800,6 +816,17 @@ a.__thumb:hover{
     line-height: 1.08;
     color: #ffffff;
     padding: 71px 30px;
+    font-weight: 900;
+  }
+
+  .__pvc{
+    font-family: Lato-Regular;
+    font-size: 24px;
+    line-height: 1.08;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 6%;
+    font-weight: 900;
   }
 
   .__redov{
@@ -810,6 +837,7 @@ a.__thumb:hover{
   .__read{
     font-family: AvertaDemo-Regular;
     font-size: 28px;
+    font-weight: 800;
     line-height: 1.14;
     color: #212121;
   }
